@@ -1,2 +1,1 @@
-# MagLabProject
- Predicting SIs and SSCs with ML
+# SSC vs SI
